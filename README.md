@@ -219,6 +219,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
+## 💬 Let's Connect
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F7B731&center=true&vCenter=true&width=700&lines=Learn.+Build.+Ship.+Repeat.;Open+to+collaborations+and+opportunities." alt="Quote" /></a>
+
+<br/>
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+
 
 
 <br/>
